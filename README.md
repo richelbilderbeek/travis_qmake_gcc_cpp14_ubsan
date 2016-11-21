@@ -2,7 +2,7 @@
 
 [![Travis CI logo](TravisCI.png)](https://travis-ci.org)
 
-[![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14)
+[![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14_ubsan.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14_ubsan)
 
 This GitHub is part of [the Travis C++ Tutorial](https://github.com/richelbilderbeek/travis_cpp_tutorial).
 
