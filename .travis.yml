@@ -14,4 +14,4 @@ install:
 script: 
   - qmake
   - make
-  - ./travis_qmake_gcc_cpp14_ubsan
+  - if [[ `./travis_qmake_gcc_cpp14_ubsan` != 0 ]]; then echo "UBSAN correctly detected a fail"; fi
